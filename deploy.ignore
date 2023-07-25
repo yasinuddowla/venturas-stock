@@ -1,0 +1,13 @@
+
+.github
+.git
+.vscode
+.gitignore
+.htaccess
+application/vendor/*
+application/logs/*.php
+license.txt
+vs_code.bat
+vs_mac.command
+deploy.ignore
+tmp/

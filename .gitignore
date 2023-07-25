@@ -1,0 +1,6 @@
+.DS_Store
+application/vendor/*
+application/logs/*.php
+.env
+!application/*/.htaccess
+.htaccess

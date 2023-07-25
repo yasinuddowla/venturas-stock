@@ -1,0 +1,3 @@
+Duplicate brands will cause errors
+Data Loss due to strlower
+We can track which splitted file loaded
