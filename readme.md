@@ -2,6 +2,7 @@
 
 - PHP
 - MySQL
+  The docker file attached here needs testing. I couldn't do that due to short of time.
 
 ## Setup
 
